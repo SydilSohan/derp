@@ -36,7 +36,7 @@ boxShadow : "inset 0 0 50px #fff,  inset 20px 0 80px #f0f,  inset -20px 0 80px #
         <div className='flex flex-col-reverse lg:flex-row items-center justify-between gap-4'>
   <Card className='flex-1 p-4 bg-black border-teal-400 shadow-teal-500 shadow-xl'>
     <p className='text-teal-500'>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam accusantium sequi voluptate quasi, consectetur praesentium veritatis eaque quae asperiores esse ut error, earum, eius molestias? Inventore explicabo fugiat sit rerum?
+      Lorem ipsum dolor siedt amet consectetur adipisicing elit. Quibusdam accusantium sequi voluptate quasi, consectetur praesentium veritatis eaque quae asperiores esse ut error, earum, eius molestias? Inventore explicabo fugiat sit rerum?
     </p>
   </Card>
   <Image src='/Wojak.png' height={200} width={200} alt='' objectFit='cover' className='rounded-full m-0 flex-1' />
